@@ -4,13 +4,13 @@
 <h2>🔒Cybersecurity Projects:</h2>
   
 - <b>Compliance / GRC </b>
-  - [RMF & TPRM Training]([https://github.com/caycharles](https://github.com/cybercay/GRC-RMF-Training))
-  - [GRC Analyst Master Class]([https://github.com/caycharles](https://github.com/cybercay/GRC-RMF-Training))
+  - [RMF & TPRM Training](https://github.com/cybercay/GRC-RMF-Training)
+  - [GRC Analyst Master Class](https://github.com/cybercay/GRC-RMF-Training)
 - <b>Security Operations</b>
   - [SecOps Simulator: Navigating Virtual Threats and Mastering Detection as a SOC Analyst](https://github.com/cybercay/SecOps-Simulator)
-  - [SIEM Lab: Implementing a SOC and Honeynet in Azure]([https://github.com/caycharles](https://github.com/cybercay/SIEM-Lab-Azure-Sentinel))
+  - [SIEM Lab: Implementing a SOC and Honeynet in Azure](https://github.com/cybercay/SIEM-Lab-Azure-Sentinel)
 - <b>Vulnerability Management</b>
-  - [Risk Evaluaiton and Remediation Project]([https://github.com/caycharles](https://github.com/cybercay/Risk-Evaluation-Remediation-Project))
+  - [Risk Evaluaiton and Remediation Project](https://github.com/cybercay/Risk-Evaluation-Remediation-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
