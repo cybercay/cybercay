@@ -7,7 +7,7 @@
 - <b>Security Operations</b>
   - [SIEM Lab: Implementing a SOC and Honeynet in Azure](https://github.com/cybercay/SIEM-Lab-Azure-Sentinel)
   - [SecOps Simulator: Navigating Virtual Threats and Mastering Detection as a SOC Analyst](https://github.com/cybercay/SecOps-Simulator)
-  - [Linux System Administration + Active Directory Lab]()
+  - [Linux System Administration + Active Directory Lab](https://github.com/cybercay/Linux-System-Administration-Active-Directory-Lab)
 - <b>Vulnerability Management</b>
   - [Risk Evaluaiton and Remediation Project](https://github.com/cybercay/Risk-Evaluation-Remediation-Project)
 - <b>Compliance / GRC </b>
